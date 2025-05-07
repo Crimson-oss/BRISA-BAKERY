@@ -9,7 +9,7 @@ Welcome to the official website repository for **Brísa Bakery**, a community ba
 - **Pastries**: Cinnamon rolls, meat pies, and more (Ksh 100 - Ksh 250)
 
 ## 💳 Payment Method
-- **M-Pesa Paybill**: `123456`  
+- **M-Pesa**: 0799560130  
 - Confirm your order via [WhatsApp](https://wa.me/254799560130) after payment.
 
 ## 📍 Location
